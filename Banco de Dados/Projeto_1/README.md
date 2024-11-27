@@ -1,4 +1,4 @@
-# Desafio Prático:  Projeto de E-commerce 
+# Desafio Prático: Refinando um Projeto Conceitual de Banco de dados de E-commerce 
  Esse desafio foi realizado durante a trajetória do Bootcamp de Análise de dados com Power bi da **DIO** em parceria com a **Suzano.**
 
 - Objetivo:
