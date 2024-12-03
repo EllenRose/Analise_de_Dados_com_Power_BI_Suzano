@@ -13,7 +13,7 @@ INSERT INTO Mecanico (nome, especialidade,Admissao) VALUES
 ('Jonas', 'Freios', '2021-02-02');
 
 
-INSERT INTO OrdensServico (numero,data_emissao,data_conclusao, valor_total, status,tipo,id_veiculo, id_cliente) VALUES
+INSERT INTO OrdemServico (numero,data_emissao,data_conclusao, valor_total, status,tipo,id_veiculo, id_cliente) VALUES
 ('1','2024-01-01','2024-02-02', 98.00, 'Em andamento','2', 1, 1),
 ('2','2024-02-02','2024-03-02', 50.00, 'Concluído','3', 2, 2);
 
